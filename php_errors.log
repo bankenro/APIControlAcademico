@@ -1,0 +1,44 @@
+[30-Jan-2018 18:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
+[30-Jan-2018 18:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\controlacademico\EnviarNotificacionDesdePHP.php on line 21
