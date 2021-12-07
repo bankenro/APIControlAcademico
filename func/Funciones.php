@@ -9,7 +9,7 @@
 require 'Notificaciones.php';
 require 'Conexion.php';
 require 'Fecha.php';
-require $_SERVER['DOCUMENT_ROOT'] . '/controlacademico/reportes/Reporte.php';
+require $_SERVER['DOCUMENT_ROOT'] . '/APIControlAcademico/reportes/Reporte.php';
 //require '../reportes/Reporte.php';
 //rfROLXhZjS
 //hosting cWD0P305iIPZ
